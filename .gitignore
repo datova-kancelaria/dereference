@@ -1,0 +1,12 @@
+.idea/
+*.iml
+*.ipr
+target/
+nbactions.xml
+nb-configuration.xml
+.project
+.settings/
+.classpath
+.factory*
+auth-mock
+*.out
